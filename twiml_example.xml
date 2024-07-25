@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Response>
+    <Say voice="alice" language="en-US">
+        Hello! Thank you for calling. This is a test call from Twilio.
+    </Say>
+    <Pause length="2"/>
+    <Say voice="alice" language="en-US">
+        Please leave a message after the beep, and we will get back to you.
+    </Say>
+    <Hangup/>
+</Response>
